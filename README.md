@@ -109,8 +109,7 @@ The ECG morphology is modeled as a **sum of Gaussian kernels**:
 ``` math
 \[
 ECG(\theta) = \sum_{i=1}^{L} a_i \exp\left(-\frac{(\theta-\theta_i)^2}{2b_i^2}\right)
-\]
-```
+\]```
 Where:
 
 - \(a_i\) → Gaussian amplitude  
