@@ -1,3 +1,6 @@
+<img width="560" height="420" alt="untitled1" src="https://github.com/user-attachments/assets/d0a85a45-2643-4fd7-a52e-20948758ec3d" />
+<img width="560" height="420" alt="untitled" src="https://github.com/user-attachments/assets/2aec008d-89c1-4304-904d-eb13861c1fb9" />
+
 # ECG-denoising-using-Adaptive-EKF-and-PSO
 ECG denoising using Adaptive EKF and PSO
 
